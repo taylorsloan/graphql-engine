@@ -20,7 +20,7 @@ This Docker Compose setup runs [Hasura GraphQL Engine](https://github.com/hasura
   General - Name: Hasura  
   Connection - Host: `postgres`
   Username: `postgres`
-  Password: leave empty  
+  Password: `postgrespassword` 
 
 ## Important endpoints
 
